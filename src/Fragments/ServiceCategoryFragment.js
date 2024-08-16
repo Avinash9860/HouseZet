@@ -21,7 +21,7 @@ export class ServiceCategoryFragment extends Component {
         "Carpentry",
         "Cleaning",
         "Electrical",
-        "Electronic & Appliances",
+        "Electronic and Appliances",
         "Home Decor",
         "Laundry",
         "Moving",

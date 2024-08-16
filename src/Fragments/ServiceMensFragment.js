@@ -29,7 +29,7 @@ export class ServiceMensFragment extends Component {
       { label: 'Carpentry', value: 'Carpentry' },
       { label: 'Cleaning', value: 'Cleaning' },
       { label: 'Electrical', value: 'Electrical' },
-      { label: 'Electronic & Appliances', value: 'Electronic & Appliances' },
+      { label: 'Electronic and Appliances', value: 'Electronic and Appliances' },
       { label: 'Home Decor', value: 'Home Decor' },
       { label: 'Moving', value: 'Moving' },
       { label: 'Plumbing', value: 'Plumbing' },
